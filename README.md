@@ -18,7 +18,7 @@
 
 ### Работа над проектом ведется в команде.
 1. Репозиторий проекта доступен по ссылке: [IT_Project](https://github.com/ThickHedgehog/Stankin.Food)
-2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://github.com/)
+2. Веб-страница с описанием проекта доступна по ссылке: [Landing page]([https://github.com/](https://thickhedgehog.github.io/Lab_ITtech/))
 
 ## ✅ Экзаменационные билет №21
 
